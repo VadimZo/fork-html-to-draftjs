@@ -55,7 +55,7 @@ function genFragment(
   }
 
   if (
-    nodeName === 'img' &&
+    nodeName === 'img' && node.className!=="img-emoji" &&
     node instanceof HTMLImageElement
   ) {
     const entityConfig = {};
