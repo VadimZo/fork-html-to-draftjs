@@ -1,5 +1,4 @@
 config
-src
 node_modules
 .babelrc
 .gitignore
