@@ -1,6 +1,0 @@
-config
-node_modules
-.babelrc
-.gitignore
-.npmignore
-yarn.lock
